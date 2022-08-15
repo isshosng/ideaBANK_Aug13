@@ -1,4 +1,4 @@
-package com.ll.exam.ideaBANK_Aug13.controller;
+package com.ll.exam.ideaBANK_Aug13.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
